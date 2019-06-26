@@ -10,3 +10,15 @@ https://inmachineswetrust.com/posts/deep-learning-setup/
 <pre>
 conda install keras
 </pre>
+
+<h2>Tensorflow</h2>
+
+<pre>
+conda install tensorflow
+</pre>
+
+<h2>Theano</h2>
+
+<pre>
+conda install theano
+</pre>
