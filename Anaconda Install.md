@@ -1,3 +1,9 @@
+<h2>General Install</h2>
+
+<pre>
+https://inmachineswetrust.com/posts/deep-learning-setup/
+</pre>
+
 
 <h2>Keras</h2>
 
